@@ -2,7 +2,7 @@ var contactButtons = document.querySelectorAll('.button');
 
 for (var i = 0; i < contactButtons.length; i++) {
   contactButtons[i].addEventListener('click', function() {
-    var phoneNumber = "+123456789"; // Replace with your desired phone number
+    var phoneNumber = "+19177949688"; // Replace with your desired phone number
 
     if (isMobileDevice()) {
       // Dial the phone number on mobile devices
