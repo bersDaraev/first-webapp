@@ -1,3 +1,3 @@
 function popUp() {
-    alert("Where is the trigger?");
+    alert("Call now! 917 794 96 88");
 }
